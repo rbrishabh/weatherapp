@@ -1,2 +1,2 @@
-# weatherapp
-weather app used in terminal made using node.js
+# Weatherapp
+Weather app used in terminal made using node.js
